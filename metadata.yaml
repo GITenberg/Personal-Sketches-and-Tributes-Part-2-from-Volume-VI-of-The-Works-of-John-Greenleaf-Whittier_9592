@@ -1,0 +1,32 @@
+_repo: Personal-Sketches-and-Tributes-Part-2-from-Volume-VI-of-The-Works-of-John-Greenleaf-Whittier_9592
+creator:
+  author:
+    agent_name: Whittier, John Greenleaf
+    aliases:
+    - Whittier, J. G. (John Greenleaf)
+    - Whittier, John G. (John Greenleaf)
+    birthdate: 1807
+    deathdate: 1892
+    gutenberg_agent_id: '455'
+    url: http://www.gutenberg.org/2009/agents/455
+    wikipedia: http://en.wikipedia.org/wiki/John_Greenleaf_Whittier
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9592'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biography'
+- !lcc 'CT'
+- !lcc 'PS'
+tableOfContents: The funeral of Torrey -- Edward Everett -- Lewis Tappan (1873.) --
+  Bayard Taylor -- William Ellery Channing -- Death of President Garfield -- Lydia
+  Maria Child -- Oliver Wendell Holmes -- Longfellow -- Old Newbury -- Schoolday remembrances
+  -- Edwin Percy Whipple.
+title: "Personal Sketches and Tributes\r\nPart 2 from Volume VI of The Works of John\
+  \ Greenleaf Whittier"
+url: http://www.gutenberg.org/ebooks/9592
